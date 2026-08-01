@@ -1,3 +1,9 @@
+Machine learning framework for ASD/ADHD diagnosis using SRS subscores from the ABIDE I & II datasets with Support Vector Machines and Random Forests. Presented @ IEEE MIT Undergraduate Research & Technology Conference 2024.
+
+Also recognized in: The Harvard Brain 2025, Future Psych Scholars 2025, International Neuroethics Society / International Youth Neuroscience Association 2024, Columbia Junior Science Journal 2024
+
+
+
 implementation (see neuropredict) and evaluation of Support Vector Machine (SVM) model to predict ADHD in individuals with Autism Spectrum Disorder (ASD). leverages SRS scores dataset derived from ABIDE to train and test the SVM model and includes performance evaluation and feature importance analysis.<br>
 
 python requirements:
